@@ -1,0 +1,26 @@
+#texte{
+    display: flex;
+    justify-content: RIGHT;
+    align-items: RIGHT;
+    margin-left: 60;
+    margin-right: 60;
+
+}
+
+
+.header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+
+
+
+  .clic : hover
+  {
+    color #0065fc
+    border-bottam: 3px
+
+  }
