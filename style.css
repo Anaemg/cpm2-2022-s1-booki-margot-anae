@@ -16,3 +16,19 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.decorationNone {
+  text-decoration: none;
+}
+.sizeLien {
+  width: 140px;
+  height: 99px;
+}
+.colorLien2 {
+  color: black;
+}
+.flexColumnCentre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
