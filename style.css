@@ -45,3 +45,15 @@ body {
 .bordureNone {
   border: none;
 }
+.texteGras {
+  font-weight: bold;
+}
+.colorBleu {
+  color: #0065fc;
+}
+.colorBleuClair {
+  color: #deebff;
+}
+.colorGris {
+  color: #f2f2f2;
+}
