@@ -32,3 +32,16 @@ body {
   justify-content: center;
   align-items: center;
 }
+.flexColumnAround {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.flexColumnBetween {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.bordureNone {
+  border: none;
+}
