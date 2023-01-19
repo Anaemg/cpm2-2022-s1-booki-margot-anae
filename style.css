@@ -57,3 +57,18 @@ body {
 .colorGris {
   color: #f2f2f2;
 }
+.backBleu {
+  background-color: #0065fc;
+}
+.backBleuClair {
+  background-color: #deebff;
+}
+.backGris {
+  background-color: #f2f2f2;
+}
+.sizeNav {
+  height: auto;
+}
+.sizeLiens {
+  width: 100%;
+}
