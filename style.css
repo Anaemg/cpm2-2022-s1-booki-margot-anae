@@ -72,3 +72,22 @@ body {
 .sizeLiens {
   width: 100%;
 }
+.sizeLien12 {
+  margin-left: 60%;
+}
+.sizeLien {
+  width: 140px;
+  height: 99px;
+}
+.sizeLiens {
+  margin-left: 45%;
+}
+.colorLien2 {
+  color: black;
+}
+.bordureNav {
+  border-top: 1px solid transparent;
+}
+.bordureNav23 {
+  border-top: 1px solid transparent;
+}
