@@ -315,3 +315,36 @@ body {
   height: 160px;
   border-radius: 15px 0 0 15px;
 }
+.Activites {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.blocActivites {
+  width: 100%;
+  height: 600px;
+}
+.blocActivites2356 {
+  width: 23%;
+  height: 600px;
+}
+.cubeActivites {
+  width: 23%;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+.cubeActivites:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+.cubeActivites2356 {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+.cubeActivites2356:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+.hauteurTitre {
+  height: 70px;
+}
